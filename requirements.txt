@@ -10,6 +10,3 @@ huggingface_hub
 python-dotenv
 seaborn
 mlflow
-os
-shutil
-datetime
